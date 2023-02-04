@@ -75,15 +75,15 @@ src="https://raw.githubusercontent.com/Niskko/Niskko/main/bottomright.png" />
 <div align="center">
 
 <a href="mailto:loicpup@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/email-%23D42029.svg?&style=for-the-badge&logo=mailgun&logoColor=white width="120" alt=linkedin style="margin-bottom: 5px;"/>
+<img src=https://img.shields.io/badge/email-%23D42029.svg?&style=for-the-badge&logo=mailgun&logoColor=white height="50" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <a href="https://www.loicpp.fr" target="_blank">
-<img src=https://img.shields.io/badge/website-%234ea94b.svg?&style=for-the-badge&logo=internetexplorer&logoColor=white width="140" alt=linkedin style="margin-bottom: 5px;"/>
+<img src=https://img.shields.io/badge/website-%234ea94b.svg?&style=for-the-badge&logo=internetexplorer&logoColor=white height="50" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <a href="https://linkedin.com/in/loicpupier" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin width="160"/>
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin height="50"/>
 </a>
 </div>
 <br/>
